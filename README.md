@@ -9,7 +9,7 @@
 <p align="center"><b align="center">Xissasini qo'shayotganlar:</b></p>
 
 <p align="center"><a href="https://github.com/uwussimo">UwUssimo (birinchi muallif)</a> | <a href="https://github.com/MrAbdurakhimov">Mukhammadyusuf (osmon-react)</a> | <a href="https://github.com/saidofficial">Fromgodd (hozirgi muallif)</a> | <a href="https://github.com/genemators">Genemator (osmon-script)</a></p>
-<p align="center"><h3 align="center">Osmon lang ni o'rnatish</h3></p>
+<p align="center"><h3 align="center">Osmon langni o'rnatish</h3></p>
 
 <p align="center"><h3 align="center">Windows/Powershell uchun</h3></p>
 
@@ -72,6 +72,9 @@ funksiya asosiy() {
     yoz("Rekursiv faktorial(5) = ",faktorial(5));
 }
 ```
+
+<h2 align="center">Programming Language | Dasturlash Tili</h2>
+<p align="center"><b><a href="https://xinux.uz" target="_blank">Xinux Jamiyati</a> tomonidan yaratilgan Dasturlash tili [osmon-lang].</b></p>
 
 
 
