@@ -13,7 +13,7 @@
 
 <p align="center"><h3 align="center">Windows/Powershell uchun</h3></p>
 ```bash
-iwr https://sh.osmon.dev/install.ps1 -useb | iex
+pip install foobar
 ```
 <p align="center"><h3 align="center">*NIX/Bash uchun</h3></p>
 ```bash
