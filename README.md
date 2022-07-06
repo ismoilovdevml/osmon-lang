@@ -14,10 +14,12 @@
 <p align="center"><h3 align="center">Windows/Powershell uchun</h3></p>
 
 ```bash
-pip install foobar
+iwr https://sh.osmon.dev/install.ps1 -useb | iex
 ```
 
 <p align="center"><h3 align="center">*NIX/Bash uchun</h3></p>
+
 ```bash
 curl -fsSL https://sh.osmon.dev/install.sh | sh
 ```
+
