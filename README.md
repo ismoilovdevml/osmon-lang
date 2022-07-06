@@ -9,3 +9,13 @@
 <p align="center"><b align="center">Xissasini qo'shayotganlar:</b></p>
 
 <p align="center"><a href="https://github.com/uwussimo">UwUssimo (birinchi muallif)</a> | <a href="https://github.com/MrAbdurakhimov">Mukhammadyusuf (osmon-react)</a> | <a href="https://github.com/saidofficial">Fromgodd (hozirgi muallif)</a> | <a href="https://github.com/genemators">Genemator (osmon-script)</a></p>
+<p align="center"><h3 align="center">Osmon lang ni o'rnatish</h3></p>
+
+<p align="center"><h3 align="center">Windows/Powershell uchun</h3></p>
+```bash
+iwr https://sh.osmon.dev/install.ps1 -useb | iex
+```
+<p align="center"><h3 align="center">*NIX/Bash uchun</h3></p>
+```bash
+curl -fsSL https://sh.osmon.dev/install.sh | sh
+```
