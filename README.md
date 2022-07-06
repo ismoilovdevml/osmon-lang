@@ -22,4 +22,5 @@ iwr https://sh.osmon.dev/install.ps1 -useb | iex
 ```bash
 curl -fsSL https://sh.osmon.dev/install.sh | sh
 ```
-
+<p> <h3>Osmon Lang VSCode Kengaytmasi</h3></p>
+[Osmon Lang VSCode Kengaytmasini o'rnatish]([https://choosealicense.com/licenses/mit/](https://marketplace.visualstudio.com/items?itemName=osmon.osmon))
