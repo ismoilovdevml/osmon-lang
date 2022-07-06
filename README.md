@@ -12,9 +12,11 @@
 <p align="center"><h3 align="center">Osmon lang ni o'rnatish</h3></p>
 
 <p align="center"><h3 align="center">Windows/Powershell uchun</h3></p>
+
 ```bash
 pip install foobar
 ```
+
 <p align="center"><h3 align="center">*NIX/Bash uchun</h3></p>
 ```bash
 curl -fsSL https://sh.osmon.dev/install.sh | sh
